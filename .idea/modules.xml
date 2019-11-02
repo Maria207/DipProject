@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/APIAuto/APIAuto.iml" filepath="$PROJECT_DIR$/APIAuto/APIAuto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UIAuto/UIAuto.iml" filepath="$PROJECT_DIR$/UIAuto/UIAuto.iml" />
+    </modules>
+  </component>
+</project>
