@@ -5,7 +5,6 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.AfterClass;
-import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
 import java.util.concurrent.TimeUnit;
@@ -54,15 +53,11 @@ public class MyStoreTest {
         checkOutPage.ShippingTab();
 //        checkOutPage.checkTermsOfServices();
         checkOutPage.PaymentOrder();
-
-
-
     }
 
 //    @AfterClass
-//    public void EndTest() throws InterruptedException{
-//        driver.close();
+//    public void aftertest() {
+//        driver.quit();
 //    }
-
 
 }
